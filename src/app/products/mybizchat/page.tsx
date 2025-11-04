@@ -90,28 +90,28 @@ export default function MyBizChatPage() {
             title: "24/7 AI Chat Support",
             description:
               "Be there for your customers around the clock. BizChat instantly responds to questions, guides visitors, and provides support — even when your team is offline.",
-            imageSrc: "/247 AI Chat Support icon.svg",
+            imageSrc: "/247-ai-chat-support-icon.svg",
             imageAlt: "24/7 AI Chat Support",
           },
           {
             title: "Auto Translate",
             description:
               "Break language barriers instantly. BizChat translates conversations in real time, making it easy to connect with customers from different regions without needing a multilingual support team.",
-            imageSrc: "/Auto Translate icon.svg",
+            imageSrc: "/auto-translate-icon.svg",
             imageAlt: "Auto Translate",
           },
           {
             title: "Webchat Plugin",
             description:
               "Turn conversations into opportunities. BizChat collects contact details, qualifies prospects, and sends them straight to your sales pipeline.",
-            imageSrc: "/Webchat Plugin icon.svg",
+            imageSrc: "/webchat-plugin-icon.svg",
             imageAlt: "Webchat Plugin",
           },
           {
             title: "Quick Reply Suggestions",
             description:
               "Respond faster with AI-powered reply options. BizChat suggests the best answers in real time, helping your team handle conversations quickly and consistently.",
-            imageSrc: "/Quick Reply Suggestions icon.svg",
+            imageSrc: "/quick-reply-suggestions-icon.svg",
             imageAlt: "Quick Reply Suggestions",
           },
         ]}

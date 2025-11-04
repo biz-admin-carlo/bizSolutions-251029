@@ -82,14 +82,14 @@ export default function MyBizPage() {
             title: "Business Listings",
             description:
               "Show up where your customers are searching. MyBiz creates verified business profiles across trusted online platforms, boosting your credibility and making it easier for new clients to find you.",
-            imageSrc: "/Business Listings icon.svg",
+            imageSrc: "/business-listings.svg",
             imageAlt: "Business Listings",
           },
           {
             title: "SEO Boost",
             description:
               "Climb higher in search results without the complexity. Built‑in SEO optimization helps your business rank better, giving you more visibility and more clicks.",
-            imageSrc: "/SEO Boost icon.svg",
+            imageSrc: "/seo-boost-icon.svg",
             imageAlt: "SEO Boost",
           },
           {
@@ -103,7 +103,7 @@ export default function MyBizPage() {
             title: "Website Development",
             description:
               "Stand out online with a custom, mobile‑friendly website designed to showcase your brand. From sleek layouts to fast‑loading pages, we’ll turn visitors into loyal customers.",
-            imageSrc: "/Website Development icon.svg",
+            imageSrc: "/website-development-icon.svg",
             imageAlt: "Website Development",
           },
         ]}

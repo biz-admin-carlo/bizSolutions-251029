@@ -93,28 +93,28 @@ export default function MyBizBuddyPage() {
             title: "Clock‑in / Clock‑out",
             description:
               "Simplify attendance tracking. Employees can clock in and out with just one tap — anytime, anywhere — ensuring accurate time logs without the hassle of manual tracking.",
-            imageSrc: "/Clock-in, Clock-out Icon.svg",
+            imageSrc: "/clock-in-clock-out.svg",
             imageAlt: "Clock‑in / Clock‑out",
           },
           {
             title: "Payroll Integration",
             description:
               "Save hours on payroll processing. BizBuddy automatically compiles work hours into export‑ready payroll reports, helping you reduce errors and streamline payouts.",
-            imageSrc: "/Payroll Integration icon.svg",
+            imageSrc: "/payroll-integration-icon.svg",
             imageAlt: "Payroll Integration",
           },
           {
             title: "Smart Scheduling",
             description:
               "Keep your team organized and avoid conflicts. Easily plan shifts, assign tasks, and manage availability with an intuitive scheduler that keeps everyone on the same page.",
-            imageSrc: "/Smart Scheduling icon.svg",
+            imageSrc: "/smart-scheduling-icon.svg",
             imageAlt: "Smart Scheduling",
           },
           {
             title: "Mobile‑Friendly",
             description:
               "Work seamlessly from anywhere. With BizBuddy’s mobile app, employees and managers can track hours, view schedules, and manage reports on the go.",
-            imageSrc: "/Mobile-Friendly icon.svg",
+            imageSrc: "/mobile-friendly-icon.svg",
             imageAlt: "Mobile‑Friendly",
           },
         ]}
