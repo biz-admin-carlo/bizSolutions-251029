@@ -23,21 +23,51 @@ export default function Testimonials() {
             {[...Array(2)].map((_, i) => (
               <div key={i} className="flex gap-8">
                 <TestimonialCard
-                  quote="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                  authorName="Cameron W."
-                  authorTitle="Business Owner"
+                  quote="“I want to compliment Bizsolutions for their outstanding performance and attitude in handling my business media. I'm so pleased and applaud them.”"
+                  authorName="Prince E."
+                  authorTitle=""
                   className="min-w-[360px] max-w-[420px]"
                 />
                 <TestimonialCard
-                  quote="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                  authorName="Floyd M."
-                  authorTitle="Marketing Coordinator"
+                  quote="“I really like your posts and content ideas for my Facebook Page. I really appreciate your hard work. Thank you.”"
+                  authorName="Chris S."
+                  authorTitle=""
                   className="min-w-[360px] max-w-[420px]"
                 />
                 <TestimonialCard
-                  quote="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                  authorName="Savannah N."
-                  authorTitle="Dog Trainer"
+                  quote="“We are so pleased and excited that this finally has happened. You guys have been incredible, and we are excited to continue working with you for years to come! Your responsiveness and dedication through this whole process has been amazing and we are lucky to have you guys in our corner. We will get to work on all of this and keep you posted throughout the process. We cannot even express how much this helps us, thank you again so much!”"
+                  authorName="Simeon S."
+                  authorTitle=""
+                  className="min-w-[360px] max-w-[420px]"
+                />
+                <TestimonialCard
+                  quote="“I’m truly impressed with how attentive and patient the BizSolutions team is. They always listen to what I need and make sure every detail is right. It’s rare to find that kind of dedication.”"
+                  authorName="Angela V."
+                  authorTitle=""
+                  className="min-w-[360px] max-w-[420px]"
+                />
+                <TestimonialCard
+                  quote="“Working with BizSolutions has been a great experience. Their professionalism and quick response time make every project smooth and stress-free. Highly dependable!”"
+                  authorName="Mark D."
+                  authorTitle=""
+                  className="min-w-[360px] max-w-[420px]"
+                />
+                <TestimonialCard
+                  quote="“From start to finish, BizSolutions made the whole web development process easy and enjoyable. They listened carefully, made smart suggestions, and delivered exactly what I needed.”"
+                  authorName="Melissa R."
+                  authorTitle=""
+                  className="min-w-[360px] max-w-[420px]"
+                />
+                <TestimonialCard
+                  quote="“BizSolutions built a beautiful and functional website for my business. They really took the time to understand what I wanted and turned my ideas into something even better than I imagined.”"
+                  authorName="Jessica M."
+                  authorTitle=""
+                  className="min-w-[360px] max-w-[420px]"
+                />
+                <TestimonialCard
+                  quote="“I appreciate the consistency and effort from the whole BizSolutions team. They always deliver quality work and communicate clearly.”"
+                  authorName="Renee L."
+                  authorTitle=""
                   className="min-w-[360px] max-w-[420px]"
                 />
               </div>
