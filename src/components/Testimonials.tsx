@@ -19,7 +19,6 @@ export default function Testimonials() {
 
         <div className="mt-10 relative overflow-hidden testimonial-fade-mask">
           <div className="testimonial-track gap-8 pr-8">
-            {/* duplicate the set twice for seamless infinite scroll */}
             {[...Array(2)].map((_, i) => (
               <div key={i} className="flex gap-8">
                 <TestimonialCard
