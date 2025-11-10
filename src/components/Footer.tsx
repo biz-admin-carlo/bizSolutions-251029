@@ -24,7 +24,7 @@ export default function Footer() {
           </p>
           <div className="flex items-center gap-4 pt-2">
             {/* Social icons */}
-            <SocialLink href="#" label="Facebook">
+            <SocialLink href="https://www.facebook.com/SupportusBizSolutions" label="Facebook">
               <svg
                 width="22"
                 height="22"
@@ -35,7 +35,7 @@ export default function Footer() {
                 <path d="M22 12.06C22 6.48 17.52 2 11.94 2S2 6.48 2 12.06c0 5.02 3.66 9.19 8.44 9.94v-7.03H7.9v-2.91h2.54V9.41c0-2.5 1.49-3.88 3.77-3.88 1.09 0 2.24.2 2.24.2v2.46h-1.26c-1.24 0-1.63.77-1.63 1.56v1.87h2.78l-.44 2.91h-2.34V22c4.78-.75 8.44-4.92 8.44-9.94Z" />
               </svg>
             </SocialLink>
-            <SocialLink href="#" label="LinkedIn">
+            <SocialLink href="https://www.linkedin.com/company/bizsolutions-llc/posts/" label="LinkedIn">
               <svg
                 width="22"
                 height="22"
@@ -46,7 +46,7 @@ export default function Footer() {
                 <path d="M6.94 6.5A2.44 2.44 0 1 1 4.5 4.06 2.45 2.45 0 0 1 6.94 6.5ZM4.78 8.56h4.32V20H4.78ZM13 8.56h-4.2V20h4.2v-6.19c0-1.64.86-2.7 2.26-2.7s1.98.95 1.98 2.65V20h4.21v-6.7c0-3.35-1.79-4.91-4.19-4.91a3.6 3.6 0 0 0-3.26 1.79h-.04Z" />
               </svg>
             </SocialLink>
-            <SocialLink href="#" label="X">
+            <SocialLink href="https://x.com/" label="X">
               <svg
                 width="22"
                 height="22"
@@ -57,7 +57,7 @@ export default function Footer() {
                 <path d="M4 3h4.5l3.05 4.58L15.8 3H20l-6.1 8.01L20.5 21H16l-3.33-4.97L9.07 21H4.02l6.77-9.06Z" />
               </svg>
             </SocialLink>
-            <SocialLink href="#" label="Instagram">
+            <SocialLink href="https://www.instagram.com/bizsolutionsllc/" label="Instagram">
               <svg
                 width="22"
                 height="22"
@@ -68,7 +68,7 @@ export default function Footer() {
                 <path d="M7 2h10a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V7a5 5 0 0 1 5-5Zm0 2a3 3 0 0 0-3 3v10a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3Zm5 3.5A5.5 5.5 0 1 1 6.5 13 5.5 5.5 0 0 1 12 7.5Zm0 2A3.5 3.5 0 1 0 15.5 13 3.5 3.5 0 0 0 12 9.5Zm5.75-3.75a1 1 0 1 1-1 1 1 1 0 0 1 1-1Z" />
               </svg>
             </SocialLink>
-            <SocialLink href="#" label="TikTok">
+            <SocialLink href="https://www.tiktok.com/@bizsolutionsllc" label="TikTok">
               <svg
                 width="22"
                 height="22"
@@ -79,7 +79,7 @@ export default function Footer() {
                 <path d="M13.5 3H16a4.6 4.6 0 0 0 4.5 4.5V10A7.1 7.1 0 0 1 16 8.42V15a5 5 0 1 1-5-5 5.1 5.1 0 0 1 1 .1V12a3 3 0 1 0 3 3Z" />
               </svg>
             </SocialLink>
-            <SocialLink href="#" label="YouTube">
+            <SocialLink href="https://www.youtube.com/@BizSolutionsLLC" label="YouTube">
               <svg
                 width="22"
                 height="22"
@@ -106,7 +106,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="#about"
+                  href="https://bizsolutions.us/about"
                   className="hover:underline underline-offset-4"
                 >
                   About Us
@@ -114,7 +114,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="#solutions"
+                  href="https://bizsolutions.us/products/mybiz"
                   className="hover:underline underline-offset-4"
                 >
                   Solutions
@@ -122,7 +122,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="#other-services"
+                  href="https://bizsolutions.us/other-services"
                   className="hover:underline underline-offset-4"
                 >
                   Other Services
@@ -130,7 +130,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="#faqs"
+                  href="https://bizsolutions.us/faqs"
                   className="hover:underline underline-offset-4"
                 >
                   FAQ’s
@@ -145,7 +145,7 @@ export default function Footer() {
             <ul className="space-y-3 text-sm">
               <li>
                 <Link
-                  href="#contact"
+                  href="https://bizsolutions.us/contact"
                   className="hover:underline underline-offset-4"
                 >
                   Contact
